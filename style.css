@@ -1,0 +1,123 @@
+@import "blocks/page/page.css";
+@import "blocks/wrapper/wrapper.css";
+@import "blocks/content/content.css";
+
+@import "blocks/container/container.css";
+@import "blocks/container/container/_size_l/container_size_l.css";
+@import "blocks/container/container/_size_tablet/container_size_tablet.css";
+@import "blocks/container/container/_size_mob/container_size_mob.css";
+
+@import "blocks/header/header.css";
+@import "blocks/header/__logo/header__logo.css";
+@import "blocks/header/__logo/_img/header__logo_img.css";
+@import "blocks/header/__menu/header__menu.css";
+
+@import "blocks/menu/__body/menu__body.css";
+@import "blocks/menu/__body/__list/menu__list.css";
+@import "blocks/menu/__body/__list/__link/menu__link.css";
+@import "blocks/menu/__icon/menu__icon.css";
+
+@import "blocks/welcome/welcome.css";
+@import "blocks/welcome/__title/welcome__title.css";
+@import "blocks/welcome/__subtitle/welcome__subtitle.css";
+@import "blocks/welcome/__button/welcome__button.css";
+@import "blocks/welcome/__slider/welcome__slider.css";
+
+@import "blocks/welcome/slider/slider.css";
+@import "blocks/welcome/slider/__item/slider__item.css";
+@import "blocks/welcome/slider/__item/__img/slider__img.css";
+@import "blocks/welcome/slider/__num/slider__num.css";
+@import "blocks/welcome/slider/__pagin/slider__pagin.css";
+@import "blocks/welcome/slider/__prev/slider__prev.css";
+@import "blocks/welcome/slider/__next/slider__next.css";
+
+@import "blocks/virtual-tour/visiting/visiting.css";
+@import "blocks/virtual-tour/visiting/__title/visiting__tittle.css";
+@import "blocks/virtual-tour/visiting/__line/visiting__line.css";
+@import "blocks/virtual-tour/visiting/__row/visiting__row.css";
+@import "blocks/virtual-tour/visiting/__row/__column/visiting__column.css";
+@import "blocks/virtual-tour/visiting/__row/__column/__item/visiting__item.css";
+@import "blocks/virtual-tour/item/__row/__image/item__image.css";
+@import "blocks/virtual-tour/item/__row/__body/item__body.css";
+@import "blocks/virtual-tour/item/__row/__body/__title/item__tittle.css";
+@import "blocks/virtual-tour/item/__row/__body/__line/item__line.css";
+@import "blocks/virtual-tour/item/__row/__body/__text/item__text.css";
+
+@import "blocks/picture-explore/explore.css";
+@import "blocks/picture-explore/explore/__row/explore__row.css";
+@import "blocks/picture-explore/explore/__row/__body/explore__body.css";
+@import "blocks/picture-explore/explore/__row/__body/__tittle/explore__title.css";
+@import "blocks/picture-explore/explore/__row/__body/__line/explore__line.css";
+@import "blocks/picture-explore/explore/__row/__body/__text/explore__text.css";
+@import "blocks/picture-explore/explore/__row/__image/explore__image.css";
+
+@import "blocks/video-journey/journey/journey.css";
+@import "blocks/video-journey/journey/__title-row/journey__tittle-row.css";
+@import "blocks/video-journey/journey/__title-row/__subtitle/journey__subtitle.css";
+@import "blocks/video-journey/journey/__row/journey__row.css";
+@import "blocks/video-journey/journey/__row/__player/journey__player.css";
+@import "blocks/video-journey/journey/__row/__player/__video/journey__video.css";
+@import "blocks/video-journey/journey/__row/__player/__control/journey__control.css";
+@import "blocks/video-journey/journey/__row/__slider/journey__slider.css";
+@import "blocks/video-journey/player/player.css";
+@import "blocks/video-journey/player/__play-btn/player__play-btn.css";
+@import "blocks/video-journey/player/__scroll-bar/player__scroll-bar.css";
+@import "blocks/video-journey/player/__vol-icon/player__vol-icon.css";
+@import "blocks/video-journey/player/__vol-bar/player__vol-bar.css";
+@import "blocks/video-journey/player/__size-btn/player__size-btn.css";
+@import "blocks/video-journey/journey-slider/journey-slider.css";
+@import "blocks/video-journey/journey-slider/__item/journey-slider__item.css";
+@import "blocks/video-journey/journey-slider/__prev/jorney-slider__prev.css";
+@import "blocks/video-journey/journey-slider/__pagin/jorney-slider__pagin.css";
+@import "blocks/video-journey/journey-slider/__next/jorney-slider__next.css";
+
+@import "blocks/art-gallery/gallery/gallery.css";
+@import "blocks/art-gallery/gallery/__title/gallery__title.css";
+@import "blocks/art-gallery/gallery/__row/gallery__row.css";
+@import "blocks/art-gallery/gallery/__row/__column/gallery__column.css";
+@import "blocks/art-gallery/gallery/__row/__column/__item/gallery__item.css";
+@import "blocks/art-gallery/gallery/__row/__column/__item/__img/gallery__img.css";
+
+@import "blocks/buy-tickets/tickets/tickets.css";
+@import "blocks/buy-tickets/tickets/__row/tickets__row.css";
+@import "blocks/buy-tickets/tickets/__row/__columns/ticket__columns.css";
+@import "blocks/buy-tickets/tickets/__row/__columns/__item/tickets__item.css";
+@import "blocks/buy-tickets/tickets/__row/__columns/__item/_1/tickets__item_1.css";
+@import "blocks/buy-tickets/tickets/__row/__columns/__item/_2/tickets__item_2.css";
+@import "blocks/buy-tickets/tickets/__row/__columns/__item/_3/tickets__item_3.css";
+@import "blocks/buy-tickets/tickets/__row/__columns/__item/_1/__img/tickets__img.css";
+@import "blocks/buy-tickets/tickets/__row/__columns/__item/_2/__type/tickets__type.css";
+@import "blocks/buy-tickets/tickets/__row/__columns/__item/_3/__amount/tickets__amount.css";
+@import "blocks/buy-tickets/tickets/__row/__columns/__item/_3/__amount/__counter/tickets__counter.css";
+@import "blocks/buy-tickets/tickets/__row/__columns/__item/_3/__amount/__btn/tickets__btn.css";
+
+@import "blocks/fullscreen/fullscreen.css";
+@import "blocks/fullscreen/__body/fullscreen__body.css";
+@import "blocks/fullscreen/__body/__img/fullscreen__img.css";
+
+@import "blocks/contacts/contacts.css";
+@import "blocks/contacts/__row/contacts__row.css";
+@import "blocks/contacts/__row/__text/contacts__text.css";
+@import "blocks/contacts/__row/__text/__subtitle/contacts__subtitle.css";
+@import "blocks/contacts/__row/__text/__address/contacts__address.css";
+@import "blocks/contacts/__row/__map/contacts__map.css";
+
+@import "blocks/footer/footer.css";
+@import "blocks/footer/__row/footer__row.css";
+@import "blocks/footer/__row/__columns/footer__columns.css";
+@import "blocks/footer/__row/__columns/__item/footer__item.css";
+@import "blocks/footer/__row/__columns/__item/_1/footer__item_1.css";
+@import "blocks/footer/__row/__columns/__item/_2/footer__item_2.css";
+@import "blocks/footer/__row/__columns/__item/_2/__body/footer__body.css";
+@import "blocks/footer/__row/__columns/__item/_2/__body/__list/footer__list.css";
+@import "blocks/footer/__row/__columns/__item/_2/__body/__list/__link/footer__link.css";
+@import "blocks/footer/__row/__columns/__item/_3/footer__item_3.css";
+@import "blocks/footer/__row/__columns/__item/_3/__icon/footer__icon.css";
+@import "blocks/footer/__line/footer__line.css";
+@import "blocks/footer/__underground/footer__underground.css";
+@import "blocks/footer/__underground/__text/footer__text.css";
+
+@import "blocks/title/title.css";
+@import "blocks/title/_w/title_w.css";
+@import "blocks/title/_gold/title_gold.css";
+@import "blocks/line/line.css";
